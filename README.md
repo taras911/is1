@@ -1,4 +1,8 @@
-is1
+Interaktive Systeme Teil 1, Redesign einer Community
 ===
 
-Interaktive Systeme/ Buechertreff 1
+Im folgenden beschäftigen wir uns mit einer Community, Forum welches
+es zu redesignen gilt.
+
+> www.buechertreff.de
+
